@@ -1,0 +1,61 @@
+div{ background-color:whitesmoke;
+     height: 300px;
+     width: 300px;
+     margin-left: 610px;
+     border-radius: 5px;
+     box-shadow: 2px 3px 10px lightgray;
+     margin-top: 20px;
+     
+     
+     
+
+
+}
+input.intro {margin-left: 10px;
+          margin-top: 10px; 
+           width: 270px;
+          height: 40px;border-color: lightgray; 
+     border-radius: 4px;}
+
+input.gona{ margin-top: 10px;
+            margin-left: 10px;
+            width: 270px;
+            height: 40px;border-color: lightgray;
+          border-radius: 4px;}
+
+
+button.ina-1 {margin-left: 20px;
+         margin-top: 10px;
+         width: 250px;
+         height: 30px;
+     color: white;
+      background-color:rgb(0, 0, 255);
+      border-radius: 5px;
+      border-color: rgb(0, 0, 255);
+     }
+
+
+h1{text-align: center;
+   font-size: 50px;
+   color: rgb(0, 0, 255);}
+
+p.modaya-1{ text-align: center;
+font-size: large;}
+
+p.modaya-2{ text-align: center;
+             color: blue;}
+
+ hr{ margin-left: 20px;
+     margin-right: 20px;}            
+
+ button.ina-2{ margin-left: 45px;
+               margin-top: 10px;
+               width: 210px;
+                height: 50px;
+               color: white;
+               background-color: rgb(92, 237, 92);
+               border-radius: 5px;
+               border-color: rgb(92, 237, 92);}    
+               
+  p.sala{ text-align: center;
+     font-size: small;}             
